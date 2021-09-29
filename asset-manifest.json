@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vivek-jpg.github.io/csb-kcwdt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vivek-jpg.github.io/csb-kcwdt/static/js/main.b4cadfe2.chunk.js",
+    "main.js.map": "https://vivek-jpg.github.io/csb-kcwdt/static/js/main.b4cadfe2.chunk.js.map",
+    "runtime-main.js": "https://vivek-jpg.github.io/csb-kcwdt/static/js/runtime-main.c4f1682c.js",
+    "runtime-main.js.map": "https://vivek-jpg.github.io/csb-kcwdt/static/js/runtime-main.c4f1682c.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://vivek-jpg.github.io/csb-kcwdt/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://vivek-jpg.github.io/csb-kcwdt/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://vivek-jpg.github.io/csb-kcwdt/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vivek-jpg.github.io/csb-kcwdt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://vivek-jpg.github.io/csb-kcwdt/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4f1682c.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b4cadfe2.chunk.js"
+  ]
+}
